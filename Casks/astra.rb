@@ -1,6 +1,6 @@
 cask "astra" do
-  version "0.1.30"
-  sha256 "fb83d8b556945acde1710a798784e6a3e7e9093f564e67fa46e44e352a0b0dc4"
+  version "0.1.31"
+  sha256 "4a6b41a5ee3e24d41f829fc7ed4a81ee18c8ff42b967954d0403a8e762f61d5a"
 
   url "https://github.com/skylight-f/zeus/releases/download/skylight-v#{version}/Astra-#{version}-arm64.dmg"
   name "Astra"
