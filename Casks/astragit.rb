@@ -10,7 +10,7 @@ cask "astragit" do
   desc "Git workbench with AI commit messages and multi-repository commits"
   homepage "https://github.com/skylight-f/AstraGit"
 
-  depends_on macos: ">= 13.0"
+  depends_on macos: :ventura
 
   app "AstraGit.app"
 
