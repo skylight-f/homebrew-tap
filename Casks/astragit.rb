@@ -1,9 +1,9 @@
 cask "astragit" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.1.13"
-  sha256 arm:   "d2a6652b5ef5576afc130be0a726a30b25d4f0814d67143b7e26627237c80176",
-         intel: "fe4383e0a59da9ee3331f223843221ffe4ff6ac03afc52d57a7e6b892145a058"
+  version "0.1.14"
+  sha256 arm:   "3f43bb5356a8596742e954f4b9faba79ee3f4108ad7061c3ccdbbdbbc57ccf09",
+         intel: "641d08ea9cc96b99a75079c9d3c265d00578a272b1662247866dabbead38d3d7"
 
   url "https://github.com/skylight-f/AstraGit/releases/download/v#{version}/AstraGit-#{version}-#{arch}.dmg"
   name "AstraGit"
